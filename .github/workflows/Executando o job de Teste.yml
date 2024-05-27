@@ -1,0 +1,18 @@
+# This is a basic workflow to help you get started with Actions
+
+#Definindo o nome do Worflow
+name: Test Workflow
+on:
+  push:
+    branches: [ main, developer]
+#Definindo os jobs que o Workflow executará
+jobs:
+  test_job:
+    name: Executando o Job de Teste
+    runs-on: self-hosted
+    steps:
+      - name: Step01 - Checkout code
+        uses: actions/checkout@v4
+ 
+      - name: Stpe02 - Executando um comando simples
+        run: echo Olá, primeiro Worlow criado!!!
