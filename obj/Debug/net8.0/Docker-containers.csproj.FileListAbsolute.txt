@@ -1,0 +1,14 @@
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\bin\Debug\net8.0\Docker-containers.exe
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\bin\Debug\net8.0\Docker-containers.deps.json
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\bin\Debug\net8.0\Docker-containers.runtimeconfig.json
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\bin\Debug\net8.0\Docker-containers.dll
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\bin\Debug\net8.0\Docker-containers.pdb
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\Docker-containers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\Docker-containers.AssemblyInfoInputs.cache
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\Docker-containers.AssemblyInfo.cs
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\Docker-containers.csproj.CoreCompileInputs.cache
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\Docker-containers.dll
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\refint\Docker-containers.dll
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\Docker-containers.pdb
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\Docker-containers.genruntimeconfig.cache
+C:\Users\santo\OneDrive\Documentos\Pós\Fase_02\GitHub_Actions\Docker-containers\obj\Debug\net8.0\ref\Docker-containers.dll
