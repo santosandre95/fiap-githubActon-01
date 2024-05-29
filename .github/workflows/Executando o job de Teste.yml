@@ -1,7 +1,5 @@
-# This is a basic workflow to help you get started with Actions
-
 #Definindo o nome do Worflow
-name: Test Workflow
+name: Meu Primeiro Workflow no GitHub Actions
 on:
   push:
     branches: [ main, developer]
@@ -9,10 +7,13 @@ on:
 jobs:
   test_job:
     name: Executando o Job de Teste
-    runs-on: self-hosted
+    runs-on: ubuntu-hosted
     steps:
       - name: Step01 - Checkout code
         uses: actions/checkout@v4
- 
-      - name: Stpe02 - Executando um comando simples
-        run: echo Olá, primeiro Worlow criado!!!
+
+      - name: Docker Login
+        uses: docker/login-action@v3.2.0
+        with:
+          username: 'santosandre'
+          password: ${{secrets.DOCKERHUB_SENHA}}
