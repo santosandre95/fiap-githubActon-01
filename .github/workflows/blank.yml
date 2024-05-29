@@ -9,7 +9,7 @@ on:
 jobs:
   test_job:
     name: Executando o Job de Teste
-    runs-on: self-hosted
+    runs-on: ubuntu-hosted
     steps:
       - name: Step01 - Checkout code
         uses: actions/checkout@v4
